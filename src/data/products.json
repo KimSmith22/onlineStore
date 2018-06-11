@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "I am Groot",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "groot",
+        "guardians of the galaxy"
+      ],
+      "image": "1-groot.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Buzz Lightyear Action Doll",
+      "description": "",
+      "keywords": [
+        "action figure",
+        "toy story",
+        "posable",
+        "requires batteries"
+      ],
+      "image": "2-buzz.jpg",
+      "age": [
+        "3",
+        "10"
+      ],
+      "price": 38.50
+    },
+    {
+      "id": 3,
+      "name": "Minion Dave",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "minions",
+        "Despicable Me"
+      ],
+      "image": "3-minion-dave.jpg",
+      "age": [
+        "0",
+        "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 4,
+      "name": "Minion Kevin",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "minions",
+        "Despicable Me"
+      ],
+      "image": "4-minion-kevin.jpg",
+      "age": [
+        "0",
+        "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 5,
+      "name": "Minion Bob",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "minions",
+        "Despicable Me"
+      ],
+      "image": "5-minion-bob.jpg",
+      "age": [
+        "0",
+        "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 6,
+      "name": "Lego City Fire Station",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "groot",
+        "guardians of the galaxy"
+      ],
+      "image": "6-logo-city.jpg",
+      "age": [
+        "0",
+        "+"
+      ],
+      "price": 19.99
+    },
+    {
+      "id": 7,
+      "name": "Lego Toy Story",
+      "description": "",
+      "keywords": [
+        "action figure",
+        "toy story",
+        "posable",
+        "requires batteries"
+      ],
+      "image": "7-lego-toy-story.jpg",
+      "age": [
+        "3",
+        "10"
+      ],
+      "price": 38.50
+    },
+    {
+      "id": 8,
+      "name": "Lego Batmobile",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "minions",
+        "Despicable Me"
+      ],
+      "image": "8-lego-batmobile.jpg",
+      "age": [
+        "0",
+        "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 9,
+      "name": "Lego Police",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "minions",
+        "Despicable Me"
+      ],
+      "image": "9-lego-police.jpg",
+      "age": [
+        "0",
+        "10"
+      ],
+      "price": 12.99
+    },
+    {
+      "id": 10,
+      "name": "Lego Millennium Falcon",
+      "description": "",
+      "keywords": [
+        "stuffed",
+        "plush",
+        "minions",
+        "Despicable Me"
+      ],
+      "image": "10-lego-millennium-falcon.jpg",
+      "age": [
+        "0",
+        "10"
+      ],
+      "price": 12.99
+    }
+  ]
+}
